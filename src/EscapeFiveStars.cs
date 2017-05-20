@@ -12,7 +12,7 @@ using GTA;
 public class EscapeFiveStars : Script
 {
     // This is used to set the time in seconds that you have to survive.
-    // If you want to change this value you also have to change the value in line 48 to the same value.
+    // If you want to change this value you also have to change the value in line 56 to the same value.
     //
     int TimeUntilReatreat = 1000;
     
