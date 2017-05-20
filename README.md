@@ -5,7 +5,7 @@ This mod allows you to escape cops/military on 5 stars by starting a timer if yo
 This is a modification for the singleplayer of the videogame "Grand Theft Auto V".
 
 # Download
-You can donwload the latest version on the `release` page. You can find it [here](https://github.com/MarcGamesons/gtavmod-escape-five-stars/releases/tag/v1.0.0).
+You can donwload the latest version on the `release` page. You can find it [here](https://github.com/MarcGamesons/gtavmod-escape-five-stars/releases).
 
 # Requirements and Installation
 1. To use this file you have to download ScriptHookV and ScriptHookVDotNet you can find them here:
