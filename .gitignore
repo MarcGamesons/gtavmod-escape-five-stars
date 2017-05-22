@@ -1,3 +1,4 @@
 EscapeFiveStars.zip
 !EscapeFiveStars.cs
 /src/*
+!/src/examples/
