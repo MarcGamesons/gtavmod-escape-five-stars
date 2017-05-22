@@ -1,2 +1,3 @@
-scripts/EscapeFiveStars.cs
 EscapeFiveStars.zip
+!EscapeFiveStars.cs
+/src/*
